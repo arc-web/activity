@@ -1,4 +1,5 @@
-# Week of November 10-16, 2025
+# Week 2 - November 2025
+**November 10-16, 2025**
 
 ## 🎯 Advertising Report Card
 
@@ -106,4 +107,4 @@ Working with: Skool platform integration, community tools, collaboration infrast
 *Generated from private development activity across Advertising Report Card, StackPack, and personal projects.*
 *No client code, member information, or proprietary details included.*
 
-**[← Back to Activity Feed](../README.md)**
+**[← Back to Activity Feed](../../README.md)**

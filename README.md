@@ -4,8 +4,11 @@ Weekly updates on what we're building (without exposing client code).
 
 ## Latest Updates
 
-### [Week of Nov 10-16, 2025](2025/11-week-2.md)
-Infrastructure consolidation, GitHub organization, strategic planning
+### November 2025
+- **[Week 2 (Nov 10-16)](2025/11-November/week-2.md)** - Infrastructure consolidation, GitHub organization, strategic planning
+
+### Archive by Month
+- **[2025/11-November/](2025/11-November/)** - All November 2025 updates
 
 ---
 
