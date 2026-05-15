@@ -52,6 +52,7 @@ campaign rebuild, and the Claude skill library moved into version control:
 - **claude-skills** (private) - Claude Code skill library moved into git, tracked and reviewable
 - **cloudflare_agent** (private) - cf-deploy CLI for R2 static site lifecycle. Pipeline behind ARC client sites
 - **therappc-site** (private) - First client site extracted into its own repo, sets the multi-site pattern
+- **aibrainbuilders** + **netprofitpositive** (in-flight) - Two more client marketing sites in local build, repo extraction pending
 - **reportcard-agent** (private) - Automated report generation + quality grading engine for ARC audits
 - **google-oauth-setup** (private) - One-shot Google OAuth CLI, writes credentials to OpenBao + 1Password
 

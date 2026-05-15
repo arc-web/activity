@@ -36,6 +36,17 @@ First client site extracted out of `cloudflare_agent` into its own repo
 (2026-05-13). Sets the pattern: client sites get their own repo, the deploy
 agent stays a tool, not a multi-tenant container.
 
+**aibrainbuilders** (in-flight)
+Marketing site + blog for aibrainbuilders.com. AI agents + AI training content
+verticals. Local build phase, repo extraction pending behind the `therappc-site`
+pattern. Resend sender currently fronted by verified `exitstorm.com` domain
+until Resend Pro upgrade adds the `aibrainbuilders.com` sender.
+
+**netprofitpositive** (in-flight)
+Marketing site + blog for netprofitpositive.com plus the `financev10` finance
+tooling subdirectory. Google Ads and Meta Ads content verticals. Local build
+phase, repo extraction pending.
+
 **reportcard-agent** (private)
 Automated report generation and quality grading. The engine behind ARC's audit
 deliverables.
