@@ -36,27 +36,31 @@ Early-stage tools and community platforms built in public
 
 ---
 
-## Current Focus (March 2026)
+## Current Focus (May 2026)
 
-Heavy output month. Multiple projects shipped or significantly advanced:
+Six-week sprint across April and May. Stealth browser stack went public, the
+Cloudflare R2 delivery pipeline matured, Google Ads automation entered active
+campaign rebuild, and the Claude skill library moved into version control:
 
-- **lean-ctx** - Rust-based context optimizer. Cuts LLM token usage 89-99% via hybrid shell hook + MCP server approach
-- **ghl-toolkit** - GoHighLevel MCP server. 520+ tools across 40 categories. Voice AI, invoicing, social, workflows
-- **ModelMogul** - Intelligent model router for AI agents. Selects right LLM per task automatically
-- **repoforge** - 7-phase pipeline for evaluating, integrating, and branding external tools
-- **exitstorm** - Community-powered micro-SaaS exit machine. Building in public
-- **Claude-Creative-Director** - AI image editing orchestrator with 12-point constraint rule set
-- **discord-manager** - CLI + API client for Discord team management with automated reporting
-- **clawlaunch** - One-stop Claude Max setup guide for OpenClaw deployment
-- **Claude-Office** - Universal open-document standard proposal for AI and human workflows
-- **arc-forensic-audit** (private) - Automated SEO and WordPress audit tool, 8-category grading with HTML/PDF output
-- **where-we-headed** (private) - AI travel assistant, 6 live API integrations, Flask + Supabase
-- **gigscanner** (private) - Gig opportunity scanner with resilience layer and Discord health alerts
+- **arc-browser** - Stealth browser automation MCP for Claude Code. 21 tools, session pool, FlareSolverr + Cloudflare recovery integration
+- **camofox-browser** - Stealth headless Firefox for AI agents. Drop-in Puppeteer / Playwright replacement, anti-detection built in
+- **arcbao** - OpenBao Agent sidecar proxy pattern for AI agent containers. Live secret fetching, no baked-in env vars
+- **arc-tables** - Interactive HTML schema diagrams + plain-English database audits. One file, zero config
+- **discord-agent** - Discord CLI, API client, channel reports for the ARC team. Charlie bot ships with the stack
+- **google-ads-agent** - Google Ads campaign management agent. THHL search rebuild active, HITL approval workflow
+- **review-workflows** + **pr-agent-settings** - Org-wide AI code review and Semgrep, one workflow file per repo
+- **claude-skills** (private) - Claude Code skill library moved into git, tracked and reviewable
+- **cloudflare_agent** (private) - cf-deploy CLI for R2 static site lifecycle. Pipeline behind ARC client sites
+- **therappc-site** (private) - First client site extracted into its own repo, sets the multi-site pattern
+- **reportcard-agent** (private) - Automated report generation + quality grading engine for ARC audits
+- **google-oauth-setup** (private) - One-shot Google OAuth CLI, writes credentials to OpenBao + 1Password
 
 ---
 
 ## Archive
 
+- [May 2026](2026/05-may/README.md) - Client delivery + skills infra: cf-deploy, therappc-site, discord-agent, google-ads-agent, claude-skills
+- [April 2026](2026/04-april/README.md) - Stealth browser stack public, OpenBao sidecar, org-wide AI review
 - [March 2026](2026/03-march/README.md) - Major output: 12 repos advanced
 - [January 2026](2026/01-january/README.md) - Google platform agents
 - [December 2025](2025/12-december/README.md) - Workspaces, GHL consolidation
