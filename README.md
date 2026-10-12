@@ -12,6 +12,17 @@
 
 What we're building, organized by time.
 
+| | |
+|---|---|
+| Status | Live: the public feed and presentation are served from GitHub Pages |
+| Owner | The ARC web owner. The ARC owner approves publishing |
+| Runs at | GitHub Pages, from the `docs/` pages |
+| A change goes live by | Merging to `main`; see [CONTRIBUTING.md](CONTRIBUTING.md#release-and-rollback) |
+| Change something | Start with [CONTRIBUTING.md](CONTRIBUTING.md) |
+
+> [!NOTE]
+> Working with an AI agent? Its instructions are in [AGENTS.md](AGENTS.md) and [CLAUDE.md](CLAUDE.md).
+
 All active development happens in private repos - client work, proprietary tools, internal systems.
 This feed gives visibility into output and direction without exposing code or client details.
 
@@ -36,11 +47,11 @@ Early-stage tools and community platforms built in public
 
 ---
 
-## Current Focus (May 2026)
+## Current focus
 
-Six-week sprint across April and May. Stealth browser stack went public, the
-Cloudflare R2 delivery pipeline matured, Google Ads automation entered active
-campaign rebuild, and the Claude skill library moved into version control:
+Recent work: the stealth browser stack went public, the Cloudflare R2 delivery
+pipeline matured, Google Ads automation entered an active campaign rebuild, and
+the Claude skill library moved into version control:
 
 - **arc-browser** - Stealth browser automation MCP for Claude Code. 21 tools, session pool, FlareSolverr + Cloudflare recovery integration
 - **camofox-browser** - Stealth headless Firefox for AI agents. Drop-in Puppeteer / Playwright replacement, anti-detection built in
@@ -60,18 +71,7 @@ campaign rebuild, and the Claude skill library moved into version control:
 
 ## Archive
 
-- [May 2026](2026/05-may/README.md) - Client delivery + skills infra: cf-deploy, therappc-site, discord-agent, google-ads-agent, claude-skills
-- [April 2026](2026/04-april/README.md) - Stealth browser stack public, org-wide AI review
-- [March 2026](2026/03-march/README.md) - Major output: 12 repos advanced
-- [January 2026](2026/01-january/README.md) - Google platform agents
-- [December 2025](2025/12-december/README.md) - Workspaces, GHL consolidation
-- [November 2025](2025/11-november/README.md) - GHL MCP foundation, n8n MCP, org setup
-- [October 2025](2025/10-october/README.md) - Agentic tooling
-- [September 2025](2025/09-september/README.md) - Agent framework research
-- [June 2025](2025/06-june/README.md) - MCP foundation, GHL initial, Supabase
-- [May 2025](2025/05-may/README.md) - Database layer
-- [April 2025](2025/04-april/README.md) - CRM experiments
-- [March 2025](2025/03-march/README.md) - Foundation
+Past months are kept as one page per month in the year folders of this repo. The git history holds every earlier version of this page.
 
 ---
 
