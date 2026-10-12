@@ -12,6 +12,17 @@
 
 What we're building, organized by time.
 
+| | |
+|---|---|
+| Status | Live: the public feed and presentation are served from GitHub Pages |
+| Owner | The ARC web owner; approves publishing: the ARC owner |
+| Runs at | GitHub Pages, from the `docs/` pages |
+| A change goes live by | Merging to `main`; see [CONTRIBUTING.md](CONTRIBUTING.md#release-and-rollback) |
+| Change something | Start with [CONTRIBUTING.md](CONTRIBUTING.md) |
+
+> [!NOTE]
+> Working with an AI agent? Its instructions are in [AGENTS.md](AGENTS.md) and [CLAUDE.md](CLAUDE.md).
+
 All active development happens in private repos - client work, proprietary tools, internal systems.
 This feed gives visibility into output and direction without exposing code or client details.
 
