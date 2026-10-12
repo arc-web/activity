@@ -2,7 +2,7 @@
 
 For people and agents. Read this whole file before your first change here.
 
-This repo is public. Read the rules in the Secrets section and the Rules section before you add anything.
+This repo is public. Read the rules in the Secrets section and the "Rules that are easy to break" section before you add anything.
 
 The shared ARC rules for Plane, branches, pull requests, secrets and release are in the [ARC contribution handbook](https://github.com/arc-web/agent-config/blob/main/handbook/HANDBOOK.md). The repo standard is in [repo-standard.md](https://github.com/arc-web/agent-config/blob/main/handbook/repo-standard.md) and [STANDARD.md](https://github.com/arc-web/agent-config/blob/main/handbook/STANDARD.md).
 

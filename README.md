@@ -15,7 +15,7 @@ What we're building, organized by time.
 | | |
 |---|---|
 | Status | Live: the public feed and presentation are served from GitHub Pages |
-| Owner | The ARC web owner; approves publishing: the ARC owner |
+| Owner | The ARC web owner. The ARC owner approves publishing |
 | Runs at | GitHub Pages, from the `docs/` pages |
 | A change goes live by | Merging to `main`; see [CONTRIBUTING.md](CONTRIBUTING.md#release-and-rollback) |
 | Change something | Start with [CONTRIBUTING.md](CONTRIBUTING.md) |
