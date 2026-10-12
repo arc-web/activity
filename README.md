@@ -47,11 +47,11 @@ Early-stage tools and community platforms built in public
 
 ---
 
-## Current Focus (May 2026)
+## Current focus
 
-Six-week sprint across April and May. Stealth browser stack went public, the
-Cloudflare R2 delivery pipeline matured, Google Ads automation entered active
-campaign rebuild, and the Claude skill library moved into version control:
+Recent work: the stealth browser stack went public, the Cloudflare R2 delivery
+pipeline matured, Google Ads automation entered an active campaign rebuild, and
+the Claude skill library moved into version control:
 
 - **arc-browser** - Stealth browser automation MCP for Claude Code. 21 tools, session pool, FlareSolverr + Cloudflare recovery integration
 - **camofox-browser** - Stealth headless Firefox for AI agents. Drop-in Puppeteer / Playwright replacement, anti-detection built in
