@@ -71,18 +71,7 @@ the Claude skill library moved into version control:
 
 ## Archive
 
-- [May 2026](2026/05-may/README.md) - Client delivery + skills infra: cf-deploy, therappc-site, discord-agent, google-ads-agent, claude-skills
-- [April 2026](2026/04-april/README.md) - Stealth browser stack public, org-wide AI review
-- [March 2026](2026/03-march/README.md) - Major output: 12 repos advanced
-- [January 2026](2026/01-january/README.md) - Google platform agents
-- [December 2025](2025/12-december/README.md) - Workspaces, GHL consolidation
-- [November 2025](2025/11-november/README.md) - GHL MCP foundation, n8n MCP, org setup
-- [October 2025](2025/10-october/README.md) - Agentic tooling
-- [September 2025](2025/09-september/README.md) - Agent framework research
-- [June 2025](2025/06-june/README.md) - MCP foundation, GHL initial, Supabase
-- [May 2025](2025/05-may/README.md) - Database layer
-- [April 2025](2025/04-april/README.md) - CRM experiments
-- [March 2025](2025/03-march/README.md) - Foundation
+Past months are kept as one page per month in the year folders of this repo. The git history holds every earlier version of this page.
 
 ---
 

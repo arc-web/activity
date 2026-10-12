@@ -45,7 +45,7 @@ Ask an agent to add a month's entry or update the current focus. You get back a 
 - `YYYY/MM-<month>/README.md`: one page per month.
 - `TEMPLATE-WEEKLY-UPDATE.md`: the template for a weekly update.
 - `docs/`: the interactive presentation pages served by GitHub Pages.
-- `bangkok-events-july-12-2026/`: one event page.
+- One folder per event, each holding that event page.
 - `LLM_EVALUATION_PRESENTATION.md`: an evaluation write-up.
 
 ## Set up and test
@@ -67,7 +67,7 @@ Nothing to install. There are no automated checks yet. Before you open a pull re
 | Staging | None yet |
 | Production | `main`, served by GitHub Pages at `https://arc-web.github.io/activity/` |
 
-Rollback: revert the merge commit on a new branch with `git revert -m 1 <merge sha>`, then open a pull request. Check the live URL after the revert lands.
+Rollback: revert the squash merge commit on a new branch with `git revert <merge sha>`, then open a pull request. Check the live URL after the revert lands.
 
 ## Rules that are easy to break
 
